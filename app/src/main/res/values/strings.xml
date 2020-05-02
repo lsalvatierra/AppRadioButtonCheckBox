@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppRadioButtonCheckBox</string>
+    <string name="valchkDeporte">Deporte</string>
+    <string name="valchkVideoJuego">Videojuegos</string>
+    <string name="valrbtnmujer">Mujer</string>
+    <string name="valrbtnvaron">Varon</string>
+    <string name="valrbtnotro">Otro</string>
+</resources>
